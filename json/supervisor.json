@@ -1,0 +1,44 @@
+[
+{
+  "department_id": 1,
+  "department_name": "DVDs",
+  "over_head_costs": 350,
+  "product_sales": 0,
+  "total_profit": 0
+},
+{
+  "department_id": 2,
+  "department_name": "Clothing",
+  "over_head_costs": 1200,
+  "product_sales": 0,
+  "total_profit": 0
+},
+{
+  "department_id": 3,
+  "department_name": "Accessories",
+  "over_head_costs": 13000,
+  "product_sales": 0,
+  "total_profit": 0
+},
+{
+  "department_id": 4,
+  "department_name": "Home Goods",
+  "over_head_costs": 26000,
+  "product_sales": 0,
+  "total_profit": 0
+},
+{
+  "department_id": 5,
+  "department_name": "Dog Clothes",
+  "over_head_costs": 8500,
+  "product_sales": 0,
+  "total_profit": 0
+},
+{
+  "department_id": 5,
+  "department_name": "Pool Accessories",
+  "over_head_costs": 600,
+  "product_sales": 0,
+  "total_profit": 0
+}
+]

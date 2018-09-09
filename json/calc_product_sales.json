@@ -1,0 +1,86 @@
+[
+  {
+    "item_id": "1",
+    "department_id": 1,
+    "price": 45,
+    "amount_of_sales": 0,
+    "revenue": 0
+  },
+  {
+    "item_id": "2",
+    "department_id": 1,
+    "price": 75,
+    "amount_of_sales": 0,
+    "revenue": 0
+  },
+  {
+    "item_id": "3",
+    "department_id": 2,
+    "price": 7,
+    "amount_of_sales": 0,
+    "revenue": 0
+  },
+  {
+    "item_id": "4",
+    "department_id": 2,
+    "price": 200,
+    "amount_of_sales": 0,
+    "revenue": 0
+  },
+  {
+    "item_id": "5",
+    "department_id": 3,
+    "price": 25,
+    "amount_of_sales": 0,
+    "revenue": 0
+  },
+  {
+    "item_id": "6",
+    "department_id": 3,
+    "price": 25,
+    "amount_of_sales": 0,
+    "revenue": 0
+  },
+  {
+    "item_id": "7",
+    "department_id": 4,
+    "price": 29,
+    "amount_of_sales": 0,
+    "revenue": 0
+  },
+  {
+    "item_id": "8",
+    "department_id": 4,
+    "price": 39,
+    "amount_of_sales": 0,
+    "revenue": 0
+  },
+  {
+    "item_id": "9",
+    "department_id": 5,
+    "price": 39,
+    "amount_of_sales": 0,
+    "revenue": 0
+  },
+  {
+    "item_id": "10",
+    "department_id": 5,
+    "price": 490,
+    "amount_of_sales": 0,
+    "revenue": 0
+  },
+  {
+    "item_id": "10",
+    "department_id": 5,
+    "price": 700,
+    "amount_of_sales": 0,
+    "revenue": 0
+  },
+  {
+    "item_id": "10",
+    "department_id": 5,
+    "price": 35,
+    "amount_of_sales": 0,
+    "revenue": 0
+  }
+]

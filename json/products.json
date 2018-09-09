@@ -1,0 +1,72 @@
+[
+{
+  "item_id": "1",
+  "product_name": "The Mighty Boosh Box Set",
+  "department_name": "DVDs",
+  "price": 45,
+  "stock_quantity": 30
+},
+{
+  "item_id": "2",
+  "product_name": "Unicorn Onesie",
+  "department_name": "Clothing",
+  "price": 75,
+  "stock_quantity": 200
+},
+{
+  "item_id": "3",
+  "product_name": "Refraction Goggles",
+  "department_name": "Accessories",
+  "price": 7,
+  "stock_quantity": 500
+},
+{
+  "item_id": "4",
+  "product_name": "Giant Inflatable Gummy Bear",
+  "department_name": "Home Goods",
+  "price": 200,
+  "stock_quantity": 50
+},
+{
+  "item_id": "5",
+  "product_name": "Dinosaur Costume",
+  "department_name": "Dog Clothes",
+  "price": 25,
+  "stock_quantity": 60
+},
+{
+  "item_id": "6",
+  "product_name": "Unicorn Floatie",
+  "department_name": "Pool Accessories",
+  "price": 29,
+  "stock_quantity": 300
+},
+{
+  "item_id": "7",
+  "product_name": "Inflatable Rainbow Bar",
+  "department_name": "Pool Accessories",
+  "price": 39,
+  "stock_quantity": 200
+},
+{
+  "item_id": "8",
+  "product_name": "Giant Giraffe Statue",
+  "department_name": "Home Goods",
+  "price": 490,
+  "stock_quantity": 50
+},
+{
+  "item_id": "9",
+  "product_name": "Fully Articulated Wings",
+  "department_name": "Accessories",
+  "price": 700,
+  "stock_quantity": 4
+},
+{
+  "item_id": "10",
+  "product_name": "Unicorn Costume",
+  "department_name": "Dog Clothes",
+  "price": 35,
+  "stock_quantity": 500
+}
+]

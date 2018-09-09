@@ -1,0 +1,46 @@
+drop database if exists bamazon;
+create database bamazon;
+use bamazon;
+
+drop table if exists bamazon.products;
+use bamazon;
+create table products (
+	 item_id varchar(30), 
+	 product_name varchar(30), 
+	 department_name varchar(50),
+	 price int(10),
+	 stock_quantity int(10),
+     primary key(item_id)
+); 
+
+
+
+use bamazon;
+drop table if exists bamazon.calc_product_sales;
+create table calc_product_sales (
+	 item_id varchar(30),  
+	 department_id varchar(50),
+	 price int(10),
+     amount_of_sales int(100),
+	 revenue int(10),
+     primary key(item_id)
+); 
+
+
+
+
+use bamazon;
+drop table if exists bamazon.supervisor;
+create table supervisor (
+	department_id varchar(30),
+    department_name varchar(30),
+    over_head_costs int(255),
+    product_sales int(255),
+    total_profit int(255),
+	primary key(department_id)
+);
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root';
+CREATE USER 'foo'@'%' IDENTIFIED WITH mysql_native_password BY 'bar';
+show tables;
+show databases;
