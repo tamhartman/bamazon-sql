@@ -128,23 +128,23 @@ inquirer.prompt([
           },{
             type: "input",
             name: "newProduct",
-            message: "What is the name of the product you would like to add?"
+            message: "What would you like to add?"
           },{
             type: "input",
             name: "addStock",
-            message: "How many would you like to add?"
+            message: "How many??"
           },{
             type: "input",
             name: "addDepartment",
-            message: "What department is this in?"
+            message: "Designate Department"
           },{
             type: "input",
             name: "addPrice",
-            message: "How much will this item cost?"
+            message: "Price per unit"
           },{
             type: "input",
             name: "addId",
-            message: "What will the item_id be?"
+            message: "item_id"
           }]).then(function(answers){
             let newProduct    = answers.newProduct;
             let addStock      = answers.addStock;
@@ -159,7 +159,7 @@ inquirer.prompt([
                              function(err, rows){
               if (err) {
                 console.log(err);
-                console.log('You probably did not put in anything in the fields above. And are seeing the error above. Try actually adding a product');
+                console.log('Error: empty input');
                 return;
             }
             const table3 = rows;
